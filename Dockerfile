@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-MAINTAINER On The Line Studios <anthonythorne33@hotmail.com>
+MAINTAINER Anthony Thorne <anthonythorne33@hotmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 

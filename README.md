@@ -1,5 +1,5 @@
 # Anthony Thorne Docker File
-The files necessary to build the docker image used on website builds by On The Line Studios.
+The files necessary to build the docker image used on website builds.
 
 ## Commands
 The following cli commands allow for easy, build, run and push durring local development.
